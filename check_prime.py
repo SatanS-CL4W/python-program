@@ -9,7 +9,7 @@ def check_prime(n):
       count+=1
   
   if count == 2:
-    return "Prime Number"
+    return "Prime Number is this..."
   else:
     return "Not a Prime NUmber"
 
